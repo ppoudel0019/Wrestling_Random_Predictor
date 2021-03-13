@@ -42,7 +42,4 @@ if you win by 1-7 points...victory   = 3 team points
               17+          fall      = 6 team points
               or injury or disqual
 
-              example wr1 -> score 118
-                      wr2 -> score 109
-                diff = 118-109 = 9 points
-                        ->major dec 4 team points
+
