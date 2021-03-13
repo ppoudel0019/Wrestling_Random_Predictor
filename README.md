@@ -2,16 +2,16 @@
 
 Notes on wrestler class wr:
 
-int Tid; ///team id   100 through 2400
-int id;  ///wrestler id,  int i + Tid...eg.  101, 102..etc
-node * wins;                                                  wins and losses BOTH use the node class for the link list.
-node * losses;
-int wt;  ///weight  mean = 147, std dev = 22;
-int wtClass;
-double ability; /// mean = 100, std dev = 15;
+Team id goes 100 through 2400
+
+Wins and Losses BOTH use the node class for the link list.
+
+
+Weight  mean = 147, std dev = 22;
+
+Ability mean = 100, std dev = 15;
 
 Goals:
-
 weight is set manually -> wt class
 ability is genrated randomly
 simulates bout between two wrestlers
