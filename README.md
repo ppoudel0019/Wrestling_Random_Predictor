@@ -52,12 +52,12 @@ Team scoring by individual victory type:
 
 if you win by 1-7 points...victory   = 3 team points
 
-              8-14 points  major     = 4 team points
+  8-14 points  major     = 4 team points
               
-              15-16 points tech fall = 5 team points
+  15-16 points tech fall = 5 team points
               
-              17+          fall      = 6 team points
+  17+          fall      = 6 team points
               
-              or injury or disqual
+  or injury or disqual
 
 
